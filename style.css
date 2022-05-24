@@ -1,0 +1,16 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+background-color: darkturquoise;
+color: coral;
+}
+a{
+    background-color: coral;
+    color: aliceblue;
+    width: 350px;
+    font-size: 50px;
+    border-radius: 100px;
+}            
